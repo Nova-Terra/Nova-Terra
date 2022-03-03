@@ -1,1 +1,1 @@
-I am a student interested in mathematical logic, set theory and metamathematics. I maintain my LaTeX repositories here.
+I am interested in the foundations of mathematics, specifically in the metamathematics of set theory and the philosophy of mathematics. I maintain my LaTeX repositories here.
